@@ -1,0 +1,5 @@
+sqlalchemy
+asyncpg
+alembic
+pydantic-settings
+python-multipart
